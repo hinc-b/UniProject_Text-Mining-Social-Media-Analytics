@@ -7,7 +7,7 @@ Project focused on Social Media Analytics and Text Mining topics in the context 
 
 ** The subject of the study ** are posts about the candidates for the US presidency - J. Biden and D. Trump. Thus, these are not candidates' posts, but posts about candidates.
 
-During the analysis, we tried to find answers to the following questions:
+During the analysis, I tried to find answers to the following questions:
 1. How did the residents of the USA and other countries express themselves about the candidates?
 2. Which languages were used most often?
 3. What form of application (web, mobile, etc.) was most often used to post entries?
@@ -17,7 +17,7 @@ During the analysis, we tried to find answers to the following questions:
 7. As well as - ** On the basis of the collected data, it can be stated that the election results were falsified, or was the counting of votes correct? ** 
 
 ## Dataset: 
-The data comes from https://www.kaggle.com/mathchi/churn-for-bank-customers.
+The data comes from https://www.kaggle.com/manchunhui/us-election-2020-tweets
 The author of the database used in the project is Manch Hui.
 
 The data consists of tweets shared between October 15, 2020 and November 8, 2020. Entries apply to both candidates - D. Trump and J. Biden. The tweets to the database were downloaded using the Tweeter API. 
